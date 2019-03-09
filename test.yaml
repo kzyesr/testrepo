@@ -26,7 +26,7 @@
         path: /tmp/testfile
         state: touch
         mode: 0755
-        groupd: managers
+        group: managers
         owner: bob
         
 
