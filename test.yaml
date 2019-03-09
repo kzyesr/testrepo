@@ -23,7 +23,7 @@
 
     - name: Create file
       file:
-        path: /tmp/testfile
+        path: /tmp/testfile1
         state: touch
         mode: 0755
         group: managers
